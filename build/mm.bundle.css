@@ -8970,9 +8970,9 @@ input:checked + .checkbox-icon:after {
   .range.range-energized input::-ms-fill-lower {
     background: #fbad1a; }
   .range.range-royal input::-webkit-slider-thumb:before {
-    background: #f98012; }
+    background: #001a4d; }                                 /** PTTI. **/
   .range.range-royal input::-ms-fill-lower {
-    background: #f98012; }
+    background:#001a4d; }                                 /** PTTI. **/
   .range.range-dark input::-webkit-slider-thumb:before {
     background: #3a3a3a; }
   .range.range-dark input::-ms-fill-lower {
