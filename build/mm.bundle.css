@@ -10513,10 +10513,11 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #ff5c00;
+  background-color: #001a4d;
+  /* CHANGED TO BLUE PTTI */
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#ff7600, #ff5c00);
-  background: radial-gradient(#ff7600, #ff5c00);
+  background: -webkit-radial-gradient(#001a4d, #002B80);
+  background: radial-gradient(#001a4d, #OO2B80);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
