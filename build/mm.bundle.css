@@ -3702,8 +3702,8 @@ blockquote {
 q:before,
 q:after,
 blockquote:before,
-blockquote:after {
-  content: ""; }
+blockquote:after 
+/**{content: ""; }  **/  /** I changed the "" FOR PTTI **/
 
 address {
   display: block;
