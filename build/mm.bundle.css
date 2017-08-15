@@ -10513,7 +10513,7 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #001a4d;
+  background-color:#001a4d;
   /* CHANGED TO BLUE PTTI */
   /* Change this to add a bg image or change color */
   background: -webkit-radial-gradient(#001a4d, #002B80);
@@ -10567,21 +10567,21 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #001a4d;     /** PTTI  **/
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #f98012;
+    background-color: #001a4d;     /** PTTI  **/
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #f98012; }
+      background-color: #001a4d; }   /** PTTI  **/
     .bar-content .button.button-clear {
       border-color: transparent;
       background: none;
