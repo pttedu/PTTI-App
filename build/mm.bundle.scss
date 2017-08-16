@@ -49,12 +49,12 @@ $mm-input-required-asterisk-color: $red !default;
 $item-input-padding: 16px !default;
 
 /**
- * App Branding
+ * App Branding.  Changed $mm-color-init-screen;  To #00194d PTTI
  */
 .mm-bglogo {
-  background-color: $mm-color-init-screen; /* Change this to add a bg image or change color*/
-  background: -webkit-radial-gradient($mm-color-init-screen-alt, $mm-color-init-screen);
-  background: radial-gradient($mm-color-init-screen-alt, $mm-color-init-screen);
+  background-color: $mm-color: #00194d;    /* Change this to add a bg image or change color PTTI PTTI*/
+  background: -webkit-radial-gradient($mm-color: #00194d;, $mm-color: #00194d;);   /* ($mm-color-init-screen-alt, $mm-color-init-screen); Change this to add a bg image or change color PTTI PTTI*/
+  background: radial-gradient($mm-color: #00194d;, $mm-color: #00194d;);   /* ($mm-color-init-screen-alt, $mm-color-init-screen);  Change this to add a bg image or change color PTTI PTTI*/
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
