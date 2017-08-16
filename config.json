@@ -2,7 +2,7 @@
     "app_id" : "edu.ptt",
     "appname": "PTTI",
     "desktopappname": "PTTI Desktop",
-    "versioncode" : "2019",
+    "versioncode" : "20190",
     "versionname" : "3.3.1",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
