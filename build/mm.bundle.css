@@ -5112,9 +5112,9 @@ a.subdued {
 
 .tabs-background-royal .tabs,
 .tabs-background-royal > .tabs {
-  background-color: #f98012;
-  background-image: linear-gradient(0deg, #dd6c06, #dd6c06 50%, transparent 50%);
-  border-color: #dd6c06; }
+  background-color:  #00194d;   /** CHANGDED BY PTTI #f98012 **/
+  background-image: linear-gradient(0deg, #001033, #001033 50%, transparent 50%);    /** CHANGDED BY PTTI Fro  (0deg,  /** CHANGDED BY PTTI, #dd6c06 50%, transparent 50%);   #f98012 **/
+  border-color:#001033; } /** CHANGDED BY PTTI from   #dd6c06  to #001033 **/
 
 .tabs-background-dark .tabs,
 .tabs-background-dark > .tabs {
