@@ -3114,19 +3114,12 @@ a.subdued {
       color: #fff; }
     .bar.bar-calm.bar-footer {
       background-image: linear-gradient(180deg, #0a9dc7, #0a9dc7 50%, transparent 50%); }
-/**.   
- .bar.bar-assertive {
-    border-color: #e42112;
-    background-color: #ef473a;
 
-
-
-**/
 
   .bar.bar-assertive {
-    border-color: #00194d;
-    background-color: #00194d;
-    background-image: linear-gradient(0deg, #00194d, #00194d 50%, transparent 50%);
+    border-color: #e42112;
+    background-color: #ef473a;
+    background-image: linear-gradient(0deg, #ef473a, ##ef473a 50%, transparent 50%);
     color: #fff; }
     .bar.bar-assertive .title {
       color: #fff; }
