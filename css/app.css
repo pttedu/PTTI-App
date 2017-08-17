@@ -3443,8 +3443,7 @@ a.subdued {
   .bar-header.has-tabs-top {
     border-bottom-width: 0px;
     background-image: none;
- background-color: #00194d;
-}
+   }
 
 .tabs-top .bar-header {
   border-bottom-width: 0px;
