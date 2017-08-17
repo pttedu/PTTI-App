@@ -3703,7 +3703,7 @@ q:before,
 q:after,
 blockquote:before,
 blockquote:after 
-/**{content: ""; }  **/  /** I changed the "" FOR PTTI **/
+{content: ""; }    /** I changed the "" FOR PTTI **/
 
 address {
   display: block;
