@@ -10514,7 +10514,7 @@ a.button {
  */
 .mm-bglogo {
   background-color: #001a4d;
-  /* CHANGED TO BLUE PTTI */
+  /* CHANGED TO BLUE PTTI Worked */
   /* Change this to add a bg image or change color */
   background: -webkit-radial-gradient(#001a4d, #002B80);
   background: radial-gradient(#001a4d, #OO2B80);
@@ -10567,7 +10567,7 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #001a4d;     /** PTTI  **/
+  background-color: #001a4d;     /** PTTI Worked **/
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
@@ -10752,8 +10752,8 @@ p.item-text-wrap {
     opacity: 0.6; }
   .mm-tabs-color .tab-item.tab-item-active, .mm-tabs-color .tab-item.active, .mm-tabs-color .tab-item.activated {
     margin-top: -2px;
-    color: #00194d;   /**  Changed by PTTI 08/17 from  #f98012; to  #00194d;  **/
-    border: 0 solid #00194d;     /**  Changed by PTTI 08/17 from  #f98012; to  #00194d;  **/
+    color:  #f98012;   /**  Changed by PTTI 08/17 from  #f98012; to  #00194d; Not Working  **/
+    border: 0 solid  #f98012;     /**  Changed by PTTI 08/17 from  #f98012; to  #00194d;Not Working  **/
     border-top-width: 2px; }
     .mm-tabs-color .tab-item.tab-item-active .badge, .mm-tabs-color .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
