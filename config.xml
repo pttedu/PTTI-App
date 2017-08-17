@@ -2,8 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "edu.ptti"
-        versionCode = "20190"
+        id        = "edu.pttii"
+        versionCode = "2019"
         version   = "3.3.1">
     <name>PTTI</name>
 
