@@ -3114,9 +3114,18 @@ a.subdued {
       color: #fff; }
     .bar.bar-calm.bar-footer {
       background-image: linear-gradient(180deg, #0a9dc7, #0a9dc7 50%, transparent 50%); }
-  .bar.bar-assertive {
+/**.   
+ .bar.bar-assertive {
     border-color: #e42112;
     background-color: #ef473a;
+
+
+
+**/
+
+  .bar.bar-assertive {
+    border-color: #00194d;
+    background-color: #00194d;
     background-image: linear-gradient(0deg, #e42112, #e42112 50%, transparent 50%);
     color: #fff; }
     .bar.bar-assertive .title {
