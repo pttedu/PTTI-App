@@ -4287,6 +4287,9 @@ a.subdued {
   border-bottom-width: 1px; }
   .bar-header.has-tabs-top {
     border-bottom-width: 0px;
+    
+    background-color: #BADA55;  /** Changed by PTTI **/
+
     background-image: none; }
 
 .tabs-top .bar-header {
