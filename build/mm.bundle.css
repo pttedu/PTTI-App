@@ -4242,8 +4242,8 @@ a.subdued {
     background: none; }
 
 .bar-royal .button {
-  border-color: #dd6c06;
-  background-color: #f98012;
+  border-color: #001033;
+  background-color: #00194d;  /**.Changed by PTTI border-color: #dd6c06;  background-color: #f98012;**/
   color: #fff; }
   .bar-royal .button:hover {
     color: #fff;
