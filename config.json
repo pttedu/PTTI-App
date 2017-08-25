@@ -1,5 +1,5 @@
 {
-    "app_id" : "edu.testm2.ptt",
+    "app_id" : "edu.ptt.test",
     "appname": "PTTI",
     "desktopappname": "PTTI Desktop",
     "versioncode" : "2019",
@@ -14,7 +14,7 @@
    
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://ptt.edu/test",
+    "siteurl": "http://test.ptt.edu/admin",
     "skipssoconfirmation": "true",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
