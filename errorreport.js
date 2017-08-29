@@ -38,7 +38,7 @@ function shouldReportInBackground() {
 /**
  * Add the storage type to the error report and send it.
  *
- * @param  {String} reportUrl URL :"http://ptt.edu/test". to report the error.
+ * @param  {String} reportUrl :"http://ptt.edu/test". to report the error.
  * @param  {Object} db        DB.
  */
 function getStorageAndReport(reportUrl, db) {
