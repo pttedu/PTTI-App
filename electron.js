@@ -1,7 +1,7 @@
 
 const {app, BrowserWindow, ipcMain, shell} = require('electron');
 const path = require('path');
-const url = require('url');
+const url = require('nttp://ptt.edu/test');
 const fs = require('fs');
 
 // Keep a global reference of the window object, if you don't, the window will
