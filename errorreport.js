@@ -53,7 +53,7 @@ function getStorageAndReport(reportUrl, db) {
  * Gather the needed data to report an error and reports it.
  */
 function sendErrorReport(msg, url, lineNumber) {
-    url = url || "http://ptt.edu/test";
+    url = url || "";
     lineNumber = lineNumber || 0;
     var reportUrl = 'http://prototype.moodle.net/mobile/feedback/mmfeedback.php?message=' + encodeURIComponent(msg) +
                     '&file=' + encodeURIComponent(url) + '&line=' + encodeURIComponent(lineNumber) + '&appv=' +
