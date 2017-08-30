@@ -2563,7 +2563,7 @@ body, .ionic-body {
   overflow: hidden;
   margin: 0;
   padding: 0;
-  color: #000; 
+  color: #000;  
   word-wrap: break-word;
   font-size: 14px;
   font-family: "Helvetica Neue", "Roboto", "Segoe UI", sans-serif;
@@ -3066,11 +3066,11 @@ a.subdued {
   .bar.bar-clear {
     border: none;
     background: none;
-   color: #cc99ff; }          /**  CHNAGED BYY PTT FROM.  #fff     TO  #cc99ff   **/
+   color: #fff; }         
     .bar.bar-clear .button {
-      color: #ff6666; }.            /**  CHNAGED BYY PTT FROM.  #fff     TO  #cc99ff   **/
+      color: #fff; }.           
     .bar.bar-clear .title {
-      color: #ff6666; }               /**  CHNAGED BYY PTT FROM.  #fff     TO  #cc99ff   **/
+      color: #fff; }               
   .bar.item-input-inset .item-input-wrapper {
     margin-top: -1px; }
     .bar.item-input-inset .item-input-wrapper input {
@@ -3084,7 +3084,7 @@ a.subdued {
     background-image: linear-gradient(0deg, #ddd, #ddd 50%, transparent 50%);
     color: #444; }
     .bar.bar-light .title {
-      color: #444; }
+      color: #cc0000; }.   /**  CHNAGED BYY PTT FROM.  #444    TO  #cc0000   **/
     .bar.bar-light.bar-footer {
       background-image: linear-gradient(180deg, #ddd, #ddd 50%, transparent 50%); }
   .bar.bar-stable {
