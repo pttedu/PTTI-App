@@ -2273,7 +2273,7 @@ blockquote, q {
   quotes: none; }
 
 blockquote:before, blockquote:after, q:before, q:after {
-  content: 'Welding Tecnologies'; /** Changed by PTT from '' to Welding Tecnologies*/
+  content: ''; 
   content: none; }
 
 /**
@@ -2563,7 +2563,7 @@ body, .ionic-body {
   overflow: hidden;
   margin: 0;
   padding: 0;
-  color: #000066; /** Changed by PTT from #000  To #000066   **/
+  color: #000; 
   word-wrap: break-word;
   font-size: 14px;
   font-family: "Helvetica Neue", "Roboto", "Segoe UI", sans-serif;
@@ -3066,11 +3066,11 @@ a.subdued {
   .bar.bar-clear {
     border: none;
     background: none;
-    color: #fff; }
+   color: #cc99ff; }          /**  CHNAGED BYY PTT FROM.  #fff     TO  #cc99ff   **/
     .bar.bar-clear .button {
-      color: #fff; }
+      color: #ff6666; }.            /**  CHNAGED BYY PTT FROM.  #fff     TO  #cc99ff   **/
     .bar.bar-clear .title {
-      color: #fff; }
+      color: #ff6666; }               /**  CHNAGED BYY PTT FROM.  #fff     TO  #cc99ff   **/
   .bar.item-input-inset .item-input-wrapper {
     margin-top: -1px; }
     .bar.item-input-inset .item-input-wrapper input {
