@@ -2242,7 +2242,7 @@ mm-course-list-item .item-icon-left {
   color: $black;
 }
 .mm-capture-media-modal {
-    background-color: $BLUE-light; /**  PTTI.   FROM  $gray-light; **/
+    background-color: $gray-light;
 
     .bar-header {
         @include bar-style($bar-content-bg, $bar-content-border, $bar-content-text);
