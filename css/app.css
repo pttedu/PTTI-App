@@ -3084,7 +3084,7 @@ a.subdued {
     background-image: linear-gradient(0deg, #ddd, #ddd 50%, transparent 50%);
     color: #444; }
     .bar.bar-light .title {
-      color: #cc0000; }.   /**  CHNAGED BYY PTT FROM.  #444    TO  #cc0000   **/
+      color: #4440; }.   
     .bar.bar-light.bar-footer {
       background-image: linear-gradient(180deg, #ddd, #ddd 50%, transparent 50%); }
   .bar.bar-stable {
@@ -3117,8 +3117,8 @@ a.subdued {
 
 
   .bar.bar-assertive {
-    border-color: #e42112;
-    background-color: #ef473a;
+    border-color: #000066 ;     /**. CHANGED BY PTT FROM #e42112   TO   #000066    **/
+    background-color: #000099 ;   /**. CHANGED BY PTT FROM #ef473a   TO  #000099     **/
     background-image: linear-gradient(0deg, #ef473a, ##ef473a 50%, transparent 50%);
     color: #fff; }
     .bar.bar-assertive .title {
@@ -6316,7 +6316,7 @@ input[type="radio"][disabled], input[type="checkbox"][disabled], input[type="rad
     top: -15px;
     left: -15px;
     padding: 30px;
-    content: ' '; }
+    content: ''; }
   .range input::-ms-track {
     background: transparent;
     border-color: transparent;
